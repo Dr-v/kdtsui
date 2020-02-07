@@ -14,9 +14,9 @@ Add when there is decent publication(crying)
 
 ### Notes
 [1] Currently working on a note about angular momentum theory in quantum mechanics including contents about group theory and the solutions of the exercises in J.J.Sakurai's book based the textbook of J.J.Sakurai and the textbook of Dirac and a lecture note of math dept, Moscow State University and two lecture notes about group theory.
-you can find this trivial note here(including the .tex file and to be finished):  https://drive.google.com/open?id=1e1MSU2ynOPZD74bu9zVQUS1jYZf6j7Mi  
-And the literature I use:  https://drive.google.com/open?id=1hvvnQElfzBgvx5HQ7LRnWwgLZpYk4w66  
-[2] Electrodynamic:  https://drive.google.com/open?id=1s_Q956ZPOsGPNvEXco4c8NctMXnQtloG
+you can find this trivial note here(including the .tex file and to be finished):  [Theory of Angular Momentum](https://drive.google.com/open?id=1e1MSU2ynOPZD74bu9zVQUS1jYZf6j7Mi)  
+And the literature I use:  [Material](https://drive.google.com/open?id=1hvvnQElfzBgvx5HQ7LRnWwgLZpYk4w66) 
+[2] Electrodynamic:  [Electrodynamics](https://drive.google.com/open?id=1s_Q956ZPOsGPNvEXco4c8NctMXnQtloG)
 
 ## About me: 
 * Normally, I work from 7:50 am to 9:58 am  
