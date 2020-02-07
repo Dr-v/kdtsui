@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Kaidi Xu(徐凯迪)
+E-mail: kaidi990426@gmail.com  
+Affilation: Department of Condensed Magical Matter Theory, Ravenclaw, Hogwarts school of Witchcraft and Wizardary, United Kingdom
+language: Chinese, English
+## Research
+Currently in my junior, major in physics.
+Interests: 
+*Nanophontonics
+*Artificial nanostructure and fiber sensing
+*Quantum field theory
+### Publication
 
-You can use the [editor on GitHub](https://github.com/Dr-v/kdtsui.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Add when there is decent publication(crying)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Notes
+[1] Currently working on a note about angular momentum theory in quantum mechanics including contents about group theory and the solutions of the exercises in J.J.Sakurai's book based the textbook of J.J.Sakurai and the textbook of Dirac and a lecture note of math dept, Moscow State University and two lecture notes about group theory.
+you can find this trivial note here(including the .tex file and to be finished):  https://drive.google.com/open?id=1e1MSU2ynOPZD74bu9zVQUS1jYZf6j7Mi  
+And the literature I use:  https://drive.google.com/open?id=1hvvnQElfzBgvx5HQ7LRnWwgLZpYk4w66
+[2] Electrodynamic:  https://drive.google.com/open?id=1s_Q956ZPOsGPNvEXco4c8NctMXnQtloG
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Dr-v/kdtsui.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## About me: 
+*Normally, I work from 7:50 am to 9:58 am  
+*Go to bed before midnight(sometimes I don't fall asleep but I pretend to), I will reply E-mail and WeChat after 7 am
+*Do not want to upload my spam paper
+*Struggling my Ph.D application
+*The dramma I adore most is Les Misérables
+*Like you already find out, I am a big fan of Harry Potter
+*Big fan of Manchester United and Jose Mourinho
+*Hence do not talk about Ed Woodward
+%Playstation and Switch
+%'The last of us' is most maverlous game has been ever created 
+*Personally, I do not waste time arguing with stupid creatures
+%Family
