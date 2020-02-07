@@ -28,6 +28,6 @@ And the literature I use:  https://drive.google.com/open?id=1hvvnQElfzBgvx5HQ7LR
 * Big fan of Manchester United and Jose Mourinho
 * Hence do not talk about Ed Woodward
 * Playstation and Switch
-*'The last of us' is most maverlous game has been ever created 
+* 'The last of us' is most maverlous game has been ever created 
 * Personally, I do not waste time arguing with stupid creatures
 * Family
