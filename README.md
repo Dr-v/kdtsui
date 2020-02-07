@@ -5,9 +5,9 @@ language: Chinese, English
 ## Research
 Currently in my junior, major in physics.
 Interests: 
-*Nanophontonics
-*Artificial nanostructure and fiber sensing
-*Quantum field theory
+* Nanophontonics
+* Artificial nanostructure and fiber sensing
+* Quantum field theory
 ### Publication
 
 Add when there is decent publication(crying)
@@ -19,15 +19,15 @@ And the literature I use:  https://drive.google.com/open?id=1hvvnQElfzBgvx5HQ7LR
 [2] Electrodynamic:  https://drive.google.com/open?id=1s_Q956ZPOsGPNvEXco4c8NctMXnQtloG
 
 ## About me: 
-*Normally, I work from 7:50 am to 9:58 am  
-*Go to bed before midnight(sometimes I don't fall asleep but I pretend to), I will reply E-mail and WeChat after 7 am
-*Do not want to upload my spam paper
-*Struggling my Ph.D application
-*The dramma I adore most is Les Misérables
-*Like you already find out, I am a big fan of Harry Potter
-*Big fan of Manchester United and Jose Mourinho
-*Hence do not talk about Ed Woodward
-*Playstation and Switch
+* Normally, I work from 7:50 am to 9:58 am  
+* Go to bed before midnight(sometimes I don't fall asleep but I pretend to), I will reply E-mail and WeChat after 7 am
+* Do not want to upload my spam paper
+* Struggling my Ph.D application
+* The dramma I adore most is Les Misérables
+* Like you already find out, I am a big fan of Harry Potter
+* Big fan of Manchester United and Jose Mourinho
+* Hence do not talk about Ed Woodward
+* Playstation and Switch
 *'The last of us' is most maverlous game has been ever created 
-*Personally, I do not waste time arguing with stupid creatures
-*Family
+* Personally, I do not waste time arguing with stupid creatures
+* Family
