@@ -1,6 +1,6 @@
 ## Kaidi Xu(徐凯迪)
 E-mail: kaidi990426@gmail.com  
-Affilation: Department of Condensed Magical Matter Theory, Ravenclaw, Hogwarts school of Witchcraft and Wizardary, United Kingdom
+Affilation: Department of Condensed Magical Matter Theory, Ravenclaw, Hogwarts school of Witchcraft and Wizardary, United Kingdom  
 language: Chinese, English
 ## Research
 Currently in my junior, major in physics.
@@ -15,7 +15,7 @@ Add when there is decent publication(crying)
 ### Notes
 [1] Currently working on a note about angular momentum theory in quantum mechanics including contents about group theory and the solutions of the exercises in J.J.Sakurai's book based the textbook of J.J.Sakurai and the textbook of Dirac and a lecture note of math dept, Moscow State University and two lecture notes about group theory.
 you can find this trivial note here(including the .tex file and to be finished):  https://drive.google.com/open?id=1e1MSU2ynOPZD74bu9zVQUS1jYZf6j7Mi  
-And the literature I use:  https://drive.google.com/open?id=1hvvnQElfzBgvx5HQ7LRnWwgLZpYk4w66
+And the literature I use:  https://drive.google.com/open?id=1hvvnQElfzBgvx5HQ7LRnWwgLZpYk4w66  
 [2] Electrodynamic:  https://drive.google.com/open?id=1s_Q956ZPOsGPNvEXco4c8NctMXnQtloG
 
 ## About me: 
@@ -27,7 +27,7 @@ And the literature I use:  https://drive.google.com/open?id=1hvvnQElfzBgvx5HQ7LR
 *Like you already find out, I am a big fan of Harry Potter
 *Big fan of Manchester United and Jose Mourinho
 *Hence do not talk about Ed Woodward
-%Playstation and Switch
-%'The last of us' is most maverlous game has been ever created 
+*Playstation and Switch
+*'The last of us' is most maverlous game has been ever created 
 *Personally, I do not waste time arguing with stupid creatures
-%Family
+*Family
