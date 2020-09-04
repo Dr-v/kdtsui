@@ -44,6 +44,6 @@ And the literature I use:  [Material](https://drive.google.com/open?id=1hvvnQElf
 * 'The last of us' is most maverlous game has been ever created
 * As for whom totally ruined the second part of this game, I feel utterly disgusted whatever his personal persuit is.
 * I mean the writer of the game -- Neil Druckman is in NO POSITION to lecture us his own political correctness. 
-* Personally, I do not waste time arguing with stupid creatures
+* Personally, I do not waste time arguing with stupid creatures (namely Neil Druckman and those who all of sudden know how should people in third world countries live and sell their nonsense value and claim they care about us ).
 * Family and deepest love for the land I was born and raised.
 * Genuinely a nice chap
