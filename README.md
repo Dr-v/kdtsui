@@ -1,6 +1,6 @@
 ## Kaidi Xu(徐凯迪)
 E-mail: kaidi990426@gmail.com  
-Affilation: Department of Condensed Magical Matter Theory, Ravenclaw, Hogwarts school of Witchcraft and Wizardary, United Kingdom  
+Affilation: Department of Condensed Magical Matter Theory, Ravenclaw, Hogwarts school of Witchcraft and Wizardary, United Kingdom (joke)
 language: Chinese (mandarin, native), English
 ## Research
 Currently in my junior, major in physics.
@@ -21,7 +21,7 @@ issn = "0030-4018",
 doi = "https://doi.org/10.1016/j.optcom.2020.126337",
 url = "http://www.sciencedirect.com/science/article/pii/S0030401820307549",
 author = "Kaidi Xu and Gaige Zheng"}
-[2]A Python-based RCWA (apply for arbitrary 2D nanostructure) programme will be released soon. (arXiv and Github)
+[2]A Python-based RCWA (apply for arbitrary 2D nanostructure) programme will be released soon (arXiv and Github).
 Add when there is decent publication(crying)
 
 ### Notes
